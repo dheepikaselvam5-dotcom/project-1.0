@@ -1,6 +1,5 @@
-first_name = "Alice"
-last_name = "Smith"
+first_name = "Dheepika"
+last_name = "Selvam"
 full_name = first_name + " " + last_name
-print(hello iam)
 print(full_name)
 
